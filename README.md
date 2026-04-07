@@ -1,5 +1,7 @@
 # Wafer Defect Clustering & Yield Impact Analyzer
 
+[![Tests](https://github.com/Hassankusow/wafer-defect-analyzer/actions/workflows/tests.yml/badge.svg)](https://github.com/Hassankusow/wafer-defect-analyzer/actions/workflows/tests.yml)
+
 A spatial defect analysis pipeline for semiconductor wafer inspection data. Uses DBSCAN clustering to classify defects as systematic (process-induced) vs. random (Poisson-distributed), and models die yield using industry-standard approximations.
 
 ---
